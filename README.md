@@ -1,6 +1,11 @@
 # 飞机大战
 ### 基于pygame库，四天完成的一个小作品，用来交期末作业，素材来源于网络。
 
+![start menu](readme/start%20menu.jpg)
+![battle1](readme/battle1.jpg)
+![battle2](readme/battle2.jpg)
+
+
 ### 管理器部分：
 学习了Ellan大大的GameFramework框架，已经熟悉了这种MoM模式，于是自己实现了一套简易的MoM框架，具有：
 
